@@ -54,12 +54,12 @@ Explore a product dataset to summarize key numbers, classify products by price, 
 
 **💡 Price split:** 7 products are *High Price* (≥ $500) and 27 are *Standard Price* (< $500). Most of the catalogue sits below the $500 mark.
 
-**🆔 Product ID insights:** The extracted day and month values span January to December. There are 12 unique country codes, with **CA****CANADA** appearing most often.
+**🆔 Product ID insights:** The extracted day and month values span January to December. There are 12 unique country codes, with **CA** CANADA appearing most often.
 
 ## 📦 Deliverables
 - ✅ Excel workbook (.xlsx) with formulas, results and new columns
 - ✅ PDF with screenshots of results, new columns and formula-bar views
-- ✅ This README
+  
 
 ## 🚀 Skills Practised
 - Summarising numerical data
